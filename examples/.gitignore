@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+**/
+
+# But allow .ipynb files
+!*.ipynb
+
+# Allow directories
+!*/
+
+# Allow .gitignore itself
+!.gitignore

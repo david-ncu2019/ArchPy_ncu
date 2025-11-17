@@ -13,3 +13,5 @@ dev/debug/*
 *.sfb
 *.fac
 *.pro
+
+sphinx_build/
